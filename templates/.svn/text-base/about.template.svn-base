@@ -1,0 +1,109 @@
+    <div id="about_main">
+
+      <div class="about">
+        <a name="how"></a>
+        <h1 class="about-title">How to Use this Site</h1>
+        <div class="about-body">
+          <div>
+
+            <p>Welcome to Fitzcairn's Keybind Viewer!  This tool works
+            with the <a
+            href="http://wow.curse.com/downloads/wow-addons/details/keybindviewer.aspx">KeybindViewer
+            addon for World of Warcraft</a> to give you a visual
+            online display of your keybinds.  A step-by-step guide for
+            using the Keybind Viewer is below.</p>
+
+            <h3>Step 1: Install the KeybindViewer WoW addon</h3>
+
+            <p>KeybindViewer is available from <a
+            href="http://wow.curse.com/downloads/wow-addons/details/keybindviewer.aspx">Curse</a>
+            or <a
+            href="http://www.wowinterface.com/downloads/info19231-KeybindViewer.html">WowInterface</a>.
+            Follow the directions on your download site of choice for
+            installation.</p>
+
+            <h3>Step 2: Log in, and open KeybindViewer.</h3>
+
+            <p>Make sure KeyindViewer is enabled at your character
+            screen.  Once you're in the game, you can type /kbv, or
+            click the minimap icon.</p>
+
+            <h3>Step 3: Copy and paste the link in the upper right of
+            KeybindViewer into the address bar of your
+            webbrowser.</h3>
+
+            <p>That's it, you're done!  This link can be safely
+            bookmarked, shared with friends, or posted in forums--it
+            won't change.</p>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="about">
+        <a name="about"></a>
+        <h1 class="about-title">Other Tools by Fitzcairn</h1>
+        <div class="about-body">
+          <div>
+
+            <p>I've been trying to give back to the community for a
+            while now, and have the following tools available:</p>
+            
+            <ul>
+              <li><b><a href="http://macroexplain.com">Fitzcairn's Macro
+              Explain-o-Matic</a></b>: an online tool for explaining what
+              your macro does.  In addition, it allows the saving of
+              macros for sharing with friends, macro rating, and
+              searching for macros.</li>
+              <br>
+              <li><b>KeybindTrainer (<a href="http://wow.curse.com/downloads/wow-addons/details/keybindtrainer.aspx">Curse</a>, <a
+              href="http://www.wowinterface.com/downloads/fileinfo.php?id=18769#info">WowInterface</a>)</b>: a WoW addon for training
+              yourself on your keybinds.  Tests you on your binds, and
+              allows for the creation and sharing of custom tests for
+              specific key sequences.
+            </ul>
+
+          </div>
+        </div>
+      </div>
+
+      <div class="about">
+        <a name="author"></a>
+        <h1 class="about-title">About the Author</h1>
+        <div class="about-body">
+          <div>
+
+            <p>I've been playing World of Warcraft on and off for
+            several years, culminating in running a large and
+            successful guild on US Moon Guard realm. I've since
+            retired to just casual play among friends.  These days I'm
+            an avid (and terrible) PvPer who prefers stabbing stuff on
+            my Rogue (Fitzcairn).</p>
+
+            <p>All questions and comments about this site are welcome.
+            Feel free to drop me a line on the release blog or on
+            Cenarion Circle US.  Thanks!</p>
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <!-- End #main -->
+
+    <!-- Begin #menu -->
+    <div id="about_menu">
+
+      <!-- Begin menu items -->
+      <div class="box">
+        <h1 class="box-title">Contents</h1>
+
+        <ul id="recently">
+            <li><a href="#how">How to Use this Site</a></li>
+            <li><a href="#about">Other Tools by Fitzcairn</a></li>
+            <li><a href="#author">About the Author</a></li>
+        </ul>
+      </div>
+  
+    </div>
+    <!-- End #sidebar -->

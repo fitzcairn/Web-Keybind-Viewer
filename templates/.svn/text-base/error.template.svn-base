@@ -1,0 +1,5 @@
+<div id="error">
+  <table align="center"><tr><td>
+    {{ error }}
+  </td></tr></table>
+</div>

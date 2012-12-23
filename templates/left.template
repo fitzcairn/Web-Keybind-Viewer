@@ -1,0 +1,8 @@
+<div id="container">
+    <div id="mouse" style='height: 100%; width: 19%; display: block; position: absolute;'>
+    {{ mouse }}
+    </div>
+    <div id="keyboard" style='height: 100%; width: 79%; left: 20%; display: block; position: absolute;'>
+    {{ keyboard }}
+    </div>
+</div>
